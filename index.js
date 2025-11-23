@@ -1,0 +1,1 @@
+export default function Home(){return <h1>Emplois du Temps - Cameroun</h1>}
